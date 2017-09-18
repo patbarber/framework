@@ -1,16 +1,25 @@
 # README #
 
-Website Framework using npm plugins
+Website Framework using npm and gulp with sass and browsersync.
+
+TO RUN:
 
 access folder in terminal
 
-run
-
+install all node dependencies with
 $ npm install
 
-then 
+this will automatically install all dependencies needed.
 
-$ gulp when installed
+if gulp is not installed globally then run
+
+$ npm install -g gulp
+
+When all installed run
+
+$ gulp 
+
+the default browser will open at localhost:3000 with browser sync running.
 
 # TOOLS #
 gulp
