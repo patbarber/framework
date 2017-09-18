@@ -7,6 +7,7 @@ TO RUN:
 access folder in terminal
 
 install all node dependencies with
+
 $ npm install
 
 this will automatically install all dependencies needed.
